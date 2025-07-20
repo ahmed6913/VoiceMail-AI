@@ -1,6 +1,9 @@
 # 🚀 VoiceMail AI – Chrome Extension
 
-“Speak smarter. Email faster.” 
+<img width="1895" height="897" alt="Screenshot 2025-07-20 233157" src="https://github.com/user-attachments/assets/9472093d-4faa-4862-b095-579dbdcc37a2" />
+
+
+“Speak smarter. Email faster” 
 
 - A Chrome Extension that lets you dictate emails and generate smart replies instantly inside Gmail and Google Docs using AI
 
