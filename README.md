@@ -15,3 +15,6 @@
 - 🧑‍💻 Write email to customer support eg. airbnb support, bank customer support
 - 💬 **Choose your tone** – casual, formal, friendly, or direct
 - ✍️ **Edit existing emails** by voice — rewrite or improve instantly
+
+
+Notion docs - https://www.notion.so/VoiceMail-AI-Chrome-Extension-2366368c9a0a805db814d269f4b27c3a?source=copy_link
